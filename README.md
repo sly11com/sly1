@@ -33,10 +33,3 @@ sly17.com<br>
 sly28.com<br>
 sly19.com<br>
 sly20.com<br>
-sxn22.com<br>
-sxn23.com<br>
-sxn24.com<br>
-sxn25.com<br>
-sxn26.com<br>
-sxn27.com<br>
-sxn28.com<br>
